@@ -1,0 +1,8 @@
+__pycache__/
+*.csv
+*.log
+.last_run_date
+scraper_log.txt
+launchd_stdout.log
+launchd_stderr.log
+.DS_Store
